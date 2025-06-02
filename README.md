@@ -1,4 +1,4 @@
-#Sobre o projeto
+# Sobre o projeto
 
 Este código é um projeto pessoal inspirado no conceito de busca linear e busca binária do livro "grokking algorithms"
 
